@@ -1,0 +1,39 @@
+_repo: Monumentum-Ancyranum-The-Deeds-of-Augustus_66595
+_version: 0.0.1
+alternative_title: Res gestae divi Augusti. Polyglot
+creator:
+  author:
+    agent_name: Augustus, Emperor of Rome
+    aliases:
+    - Octavius Caesar, Emperor of Rome
+    - Gaius Octavius, Emperor of Rome
+    - Octavianus, Gaius Julius Caesar, Emperor of Rome
+    birthdate: -63
+    deathdate: 14
+    gutenberg_agent_id: '53745'
+    url: http://www.gutenberg.org/2009/agents/53745
+    wikipedia: https://en.wikipedia.org/wiki/Augustus
+  editor:
+    agent_name: Fairley, William
+    birthdate: 1857
+    deathdate: 1918
+    gutenberg_agent_id: '53864'
+    url: http://www.gutenberg.org/2009/agents/53864
+description: ''
+gutenberg_issued: '2021-10-22'
+identifiers:
+  gutenberg: '66595'
+  lccn: 04033916
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Translations and reprints from the original sources of European history;
+  v. 5, no. 1
+subjects:
+- !lcc 'DG'
+- !lcsh 'Rome -- History -- Augustus, 30 B.C.-14 A.D. -- Sources'
+- !lcsh 'Augustus, Emperor of Rome, 63 B.C.-14 A.D.'
+- GITenberg
+title: 'Monumentum Ancyranum: The Deeds of Augustus'
+url: http://www.gutenberg.org/ebooks/66595
