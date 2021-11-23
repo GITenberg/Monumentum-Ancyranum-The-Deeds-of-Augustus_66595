@@ -1,6 +1,9 @@
 _repo: Monumentum-Ancyranum-The-Deeds-of-Augustus_66595
 _version: 0.1.0
 alternative_title: Res gestae divi Augusti. Polyglot
+covers:
+- cover_type: archival
+  image_path: 66595-h/images/cover.jpg
 creator:
   author:
     agent_name: Augustus, Emperor of Rome
@@ -20,6 +23,8 @@ creator:
     gutenberg_agent_id: '53864'
     url: http://www.gutenberg.org/2009/agents/53864
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66595#Monumentum-Ancyranum-The-Deeds-of-Augustus
 gutenberg_issued: '2021-10-22'
 identifiers:
   gutenberg: '66595'
